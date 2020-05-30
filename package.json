@@ -1,0 +1,10 @@
+{
+  "name": "com.github.siccity.xnode.group",
+  "description": "A small addon for xNode that lets you add groups to your graphs.",
+  "version": "1.3.0",
+  "unity": "2018.1",
+  "displayName": "xNode Groups Addon",
+  "dependencies": {
+    "com.github.siccity.xnode": "1.8.0"
+  }
+}
